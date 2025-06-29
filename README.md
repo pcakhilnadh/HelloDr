@@ -1,0 +1,3 @@
+# HelloDr
+
+This GitHub project scrapes homoeopathic medicine data from online sources to build a structured dataset. It includes information like medicine names, symptoms, uses, potencies, and manufacturers. The resulting dataset is intended for use in machine learning projects, enabling applications such as symptom-based medicine recommendation, pattern analysis, and knowledge discovery in homoeopathy. 
