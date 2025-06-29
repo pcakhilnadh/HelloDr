@@ -102,6 +102,9 @@ dmypy.json
 # Data Science specific - Ignore entire data folder
 data/
 
+# Scripts folder - Keep local development scripts private
+scripts/
+
 # Note: If you need to track specific data files, you can override with:
 # !data/some_important_file.csv
 # !data/schemas/
